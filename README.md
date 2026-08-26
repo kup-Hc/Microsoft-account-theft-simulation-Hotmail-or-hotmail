@@ -28,6 +28,7 @@
   *The system reveals a partially masked security email: `vi*****@hotmail.com`*
 
 ---
+<img width="1381" height="747" alt="屏幕截图 2026-08-26 122335" src="https://github.com/user-attachments/assets/33f88535-bb29-4845-b70d-d2acbc2338dd" />
 
 #### 第二步：确认安全邮箱可被实验邮箱访问  
 **Step 2: Confirm the security email is accessible via the test account**
@@ -51,6 +52,7 @@
   *Conclusion: The security email is accessible via the test account.*
 
 ---
+<img width="2088" height="822" alt="2" src="https://github.com/user-attachments/assets/89b4b76f-341f-4515-ba8e-c60e65db62e6" />
 
 #### 第三步：获取安全邮箱的完整名称  
 **Step 3: Retrieve the full security email address**
@@ -64,6 +66,7 @@
   *By tracing the relevant emails, the full security email is revealed.*
 
 ---
+<img width="1117" height="991" alt="3" src="https://github.com/user-attachments/assets/5e15a637-6008-46d0-a179-1088d6f5d254" />
 
 #### 第四步：登录安全邮箱  
 **Step 4: Log in to the security email**
@@ -83,6 +86,7 @@
   *Done: Full access to the security email is now obtained.*
 
 ---
+<img width="479" height="546" alt="屏幕截图 2026-08-26 123003" src="https://github.com/user-attachments/assets/c9bed774-77a8-4c3d-af21-2f29b71d1c9e" />
 
 #### 第五步：获取实验账户的完整访问权限  
 **Step 5: Gain full access to the test account**
@@ -98,6 +102,7 @@
   *Done: Full control over the test account is now achieved.*
 
 ---
+<img width="1659" height="1492" alt="5" src="https://github.com/user-attachments/assets/e14e31b2-43f8-4e90-a801-a1ba6a3b243f" />
 
 #### 第六步：更改账户密保（推荐使用恢复代码）  
 **Step 6: Change account security settings (recommended via recovery codes)**
@@ -124,6 +129,7 @@
   *After binding, you will be asked to reset the password and will receive a new recovery code (backup recommended).*
 
 ---
+<img width="2417" height="957" alt="6" src="https://github.com/user-attachments/assets/ee18e6ee-aa92-4531-bfad-d6d8be459c6a" />
 
 #### 最后操作：清理与防护  
 **Final Operations: Cleanup and protection**
@@ -141,5 +147,6 @@
 > *The original owner may use Windows Hello to regain access, so this step is mandatory.*
 
 ---
+<img width="1473" height="939" alt="7" src="https://github.com/user-attachments/assets/4b764b7e-4e79-4d0c-831b-342b9f0b19e4" />
 
 **✅ 所有流程已完毕 | All procedures are now complete.**
